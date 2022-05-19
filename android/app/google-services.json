@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919671619733",
+    "project_id": "tesing-9e590",
+    "storage_bucket": "tesing-9e590.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919671619733:android:c1522fbcdff3be28b85b9c",
+        "android_client_info": {
+          "package_name": "com.example.youtube_testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919671619733-dt0cujjli1lloss0utfs32np725krqmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK0GLBwrb00uC3uu0060O2QPoaYi6ySNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919671619733-dt0cujjli1lloss0utfs32np725krqmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
